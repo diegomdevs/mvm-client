@@ -93,6 +93,7 @@ main>form.main-form>section.form-top:first-child>button.form-button:only-of-type
   font-size: 1.3rem;
   background: var(--color-buttom);
   color: var(--font-color-input);
+  cursor: pointer;
 }
 
 main>form.main-form>section.form-top:first-child>label.form-input-container,
